@@ -1,6 +1,3 @@
-# Face Detect
----
-
 ## Software Information:
 - **Firmware Version:**                            F.21
 - **OS Name:**                                     Fedora Linux 39 (Workstation Edition)
